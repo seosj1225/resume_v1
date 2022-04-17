@@ -4,9 +4,10 @@ import Main from "./pages/Main";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Main />} />
+        <Route path="/main" element={<Main />} />
       </Routes>
     </BrowserRouter>
   );
