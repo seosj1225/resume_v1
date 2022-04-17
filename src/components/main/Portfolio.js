@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 
-const Portfolio = () => {
-  return <Wrapper></Wrapper>;
+const Portfolio = (props, ref) => {
+  return <Wrapper ref={ref} id="menu3"></Wrapper>;
 };
 
 const Wrapper = styled.section`
@@ -10,4 +10,4 @@ const Wrapper = styled.section`
   background-color: #ffd8be;
 `;
 
-export default Portfolio;
+export default React.forwardRef(Portfolio);

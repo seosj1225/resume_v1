@@ -3,12 +3,12 @@ import styled from "styled-components";
 import HeaderHome from "./HeaderHome";
 import HeaderMenu from "./HeaderMenu";
 
-const Header = () => {
+const Header = ({ onMenu }) => {
   return (
     <Wrapper>
       <section className="row1">
         <HeaderHome />
-        <HeaderMenu />
+        <HeaderMenu onMenu={onMenu} />
       </section>
     </Wrapper>
   );

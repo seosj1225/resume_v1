@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 
-const Skills = () => {
-  return <Wrapper></Wrapper>;
+const Skills = (props, ref) => {
+  return <Wrapper ref={ref} id="menu2"></Wrapper>;
 };
 const Wrapper = styled.section`
   height: 800px;
@@ -11,4 +11,4 @@ const Wrapper = styled.section`
 
 //
 
-export default Skills;
+export default React.forwardRef(Skills);

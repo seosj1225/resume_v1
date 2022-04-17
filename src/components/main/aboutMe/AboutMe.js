@@ -3,9 +3,9 @@ import styled from "styled-components";
 import AboutmeContents from "./aboutMeContents/AboutmeContents";
 import backgroundPic from "../../../images/laura-adai-RgSmEnzURlc-unsplash.jpg";
 
-const AboutMe = () => {
+const AboutMe = (props, ref) => {
   return (
-    <Wrapper>
+    <Wrapper ref={ref} id="menu1">
       <div className="row1">
         <div className="backgroundPic">
           <img src={backgroundPic} alt="배경사진" />
@@ -40,4 +40,4 @@ const Wrapper = styled.section`
   }
 `;
 
-export default AboutMe;
+export default React.forwardRef(AboutMe);
