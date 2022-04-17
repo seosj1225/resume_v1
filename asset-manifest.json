@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.593b9166.css",
-    "main.js": "/resume/static/js/main.d172f409.js",
-    "static/js/787.071a5c23.chunk.js": "/resume/static/js/787.071a5c23.chunk.js",
-    "static/media/profilepic.png": "/resume/static/media/profilepic.bcc26d336df23bc8307e.png",
-    "static/media/laura-adai-RgSmEnzURlc-unsplash.jpg": "/resume/static/media/laura-adai-RgSmEnzURlc-unsplash.f95131d59d61b253b8d2.jpg",
-    "static/media/resumeSample (2).jpg": "/resume/static/media/resumeSample (2).bac964cb964d9ce7edf7.jpg",
-    "static/media/resumeSample (4).jpg": "/resume/static/media/resumeSample (4).0ceda2704964b535f85e.jpg",
-    "static/media/resumeSample (5).jpg": "/resume/static/media/resumeSample (5).fbd3f573942b89e71b13.jpg",
-    "static/media/portfoilo.png": "/resume/static/media/portfoilo.891f81ad1c5dca7acff0.png",
-    "static/media/resumeSample (6).jpg": "/resume/static/media/resumeSample (6).e57bd619592cbcde8866.jpg",
-    "static/media/resumeSample (7).jpg": "/resume/static/media/resumeSample (7).4ff593dfd6b2ae88afa1.jpg",
-    "static/media/resumeSample (3).jpg": "/resume/static/media/resumeSample (3).43842b53f65e4a13e9bd.jpg",
-    "static/media/resumeSample (8).jpg": "/resume/static/media/resumeSample (8).b53837aac1aa765ce998.jpg",
-    "static/media/resumeSample (1).jpg": "/resume/static/media/resumeSample (1).a4be3701c57bbbcffc71.jpg",
-    "static/media/skills.png": "/resume/static/media/skills.c845a6342805cb1bd6ab.png",
-    "index.html": "/resume/index.html",
-    "main.593b9166.css.map": "/resume/static/css/main.593b9166.css.map",
-    "main.d172f409.js.map": "/resume/static/js/main.d172f409.js.map",
-    "787.071a5c23.chunk.js.map": "/resume/static/js/787.071a5c23.chunk.js.map"
+    "main.css": "/resume_v1/static/css/main.593b9166.css",
+    "main.js": "/resume_v1/static/js/main.6c9faf56.js",
+    "static/js/787.071a5c23.chunk.js": "/resume_v1/static/js/787.071a5c23.chunk.js",
+    "static/media/profilepic.png": "/resume_v1/static/media/profilepic.bcc26d336df23bc8307e.png",
+    "static/media/laura-adai-RgSmEnzURlc-unsplash.jpg": "/resume_v1/static/media/laura-adai-RgSmEnzURlc-unsplash.f95131d59d61b253b8d2.jpg",
+    "static/media/resumeSample (2).jpg": "/resume_v1/static/media/resumeSample (2).bac964cb964d9ce7edf7.jpg",
+    "static/media/resumeSample (4).jpg": "/resume_v1/static/media/resumeSample (4).0ceda2704964b535f85e.jpg",
+    "static/media/resumeSample (5).jpg": "/resume_v1/static/media/resumeSample (5).fbd3f573942b89e71b13.jpg",
+    "static/media/portfoilo.png": "/resume_v1/static/media/portfoilo.891f81ad1c5dca7acff0.png",
+    "static/media/resumeSample (6).jpg": "/resume_v1/static/media/resumeSample (6).e57bd619592cbcde8866.jpg",
+    "static/media/resumeSample (7).jpg": "/resume_v1/static/media/resumeSample (7).4ff593dfd6b2ae88afa1.jpg",
+    "static/media/resumeSample (3).jpg": "/resume_v1/static/media/resumeSample (3).43842b53f65e4a13e9bd.jpg",
+    "static/media/resumeSample (8).jpg": "/resume_v1/static/media/resumeSample (8).b53837aac1aa765ce998.jpg",
+    "static/media/resumeSample (1).jpg": "/resume_v1/static/media/resumeSample (1).a4be3701c57bbbcffc71.jpg",
+    "static/media/skills.png": "/resume_v1/static/media/skills.c845a6342805cb1bd6ab.png",
+    "index.html": "/resume_v1/index.html",
+    "main.593b9166.css.map": "/resume_v1/static/css/main.593b9166.css.map",
+    "main.6c9faf56.js.map": "/resume_v1/static/js/main.6c9faf56.js.map",
+    "787.071a5c23.chunk.js.map": "/resume_v1/static/js/787.071a5c23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.593b9166.css",
-    "static/js/main.d172f409.js"
+    "static/js/main.6c9faf56.js"
   ]
 }
