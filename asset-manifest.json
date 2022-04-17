@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume_v1/static/css/main.593b9166.css",
-    "main.js": "/resume_v1/static/js/main.6c9faf56.js",
+    "main.js": "/resume_v1/static/js/main.694240a3.js",
     "static/js/787.071a5c23.chunk.js": "/resume_v1/static/js/787.071a5c23.chunk.js",
     "static/media/profilepic.png": "/resume_v1/static/media/profilepic.bcc26d336df23bc8307e.png",
     "static/media/laura-adai-RgSmEnzURlc-unsplash.jpg": "/resume_v1/static/media/laura-adai-RgSmEnzURlc-unsplash.f95131d59d61b253b8d2.jpg",
@@ -17,11 +17,11 @@
     "static/media/skills.png": "/resume_v1/static/media/skills.c845a6342805cb1bd6ab.png",
     "index.html": "/resume_v1/index.html",
     "main.593b9166.css.map": "/resume_v1/static/css/main.593b9166.css.map",
-    "main.6c9faf56.js.map": "/resume_v1/static/js/main.6c9faf56.js.map",
+    "main.694240a3.js.map": "/resume_v1/static/js/main.694240a3.js.map",
     "787.071a5c23.chunk.js.map": "/resume_v1/static/js/787.071a5c23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.593b9166.css",
-    "static/js/main.6c9faf56.js"
+    "static/js/main.694240a3.js"
   ]
 }
