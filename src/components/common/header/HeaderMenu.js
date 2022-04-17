@@ -7,16 +7,16 @@ const HeaderMenu = ({ onMenu }) => {
     <Wrapper>
       <ul className="depth1">
         <li className={onMenu === 0 ? "on" : ""}>
-          <a href="#menu1">About me</a>
+          <a href="#menu1">ABOUT ME</a>
         </li>
         <li className={onMenu === 1 ? "on" : ""}>
-          <a href="#menu2">skills</a>
+          <a href="#menu2">RESUME</a>
         </li>
         <li className={onMenu === 2 ? "on" : ""}>
-          <a href="#menu3">Portfolio</a>
+          <a href="#menu3">SKILLS &#38; PORTFOLIO</a>
         </li>
         <li className={onMenu === 3 ? "on" : ""}>
-          <a href="#menu4">Contact</a>
+          <a href="#menu4">CONTACT</a>
         </li>
       </ul>
     </Wrapper>
@@ -27,11 +27,11 @@ const Wrapper = styled.div`
     display: flex;
     li {
       padding: 0 25px;
-      font-size: 17px;
+      font-size: 15px;
 
       &.on {
         a {
-          color: blue;
+          color: #9381ff;
         }
       }
     }
